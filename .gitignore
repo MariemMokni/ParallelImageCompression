@@ -1,0 +1,21 @@
+# Fichiers Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Compilation C++
+*.o
+*.out
+
+# IDE
+.vscode/
+.idea/
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Système
+.DS_Store
+Thumbs.db
